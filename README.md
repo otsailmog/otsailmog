@@ -15,12 +15,11 @@ Atualmente cursando Ciência da Computação e atuando na Coordenação de Gest�
         />
  <a href="https://discord.gg/FeUV2pe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
  <a href = "mailto:nick.jmvn@yahoo,com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/nicole-r-0a3256375" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/nicole-r-0a3256375/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  </div>
  
  ---
-
 
  ### 🤖 Linguagens e Tecnologias
 
